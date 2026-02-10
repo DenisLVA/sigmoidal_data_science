@@ -21,7 +21,7 @@ Com formação em Análise e Desenvolvimento de Sistemas e estudos contínuos em
 ## Projetos:
 Curso Sigmoidal:
 
-**Analise de dados Airbnb:Cidade de Tokio, Kantõ: https://bit.ly/3O4GIvf ** 
+**Análise de dados Airbnb: Cidade de Tokio, Kantõ: https://bit.ly/3O4GIvf** 
 
 
 ---

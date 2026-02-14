@@ -16,6 +16,9 @@ Com formação em Análise e Desenvolvimento de Sistemas e estudos contínuos em
 
 * [LinkedIn](https://bit.ly/49mQ6T6)
 
+## Estudos:
+**Aprendendo Matplotlib:**
+
 
 
 ## Projetos:

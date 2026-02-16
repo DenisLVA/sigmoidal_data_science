@@ -17,9 +17,13 @@ Com formação em Análise e Desenvolvimento de Sistemas e estudos contínuos em
 * [LinkedIn](https://bit.ly/49mQ6T6)
 
 ## Estudos:
-**Aprendendo Matplotlib: https://bit.ly/4qATuPo**     
-**Gráficos de linhas: https://bit.ly/4kCiJ2r**                  
+**Aprendendo Matplotlib: https://bit.ly/4qATuPo**  
+
+**Gráficos de linhas: https://bit.ly/4kCiJ2r**
+
 **Histograma com dados reais: https://bit.ly/3ZFmACw**
+
+**Gráfico de Barras: https://bit.ly/4kI2qRS**
 
 ## Projetos:
 Curso Sigmoidal:

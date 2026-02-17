@@ -27,6 +27,8 @@ Com formação em Análise e Desenvolvimento de Sistemas e estudos contínuos em
 
 **Gráfico BoxPlot: https://shre.ink/AFpg**
 
+**Gráfico Violino: https://shre.ink/AF8q**
+
 ## Projetos:
 Curso Sigmoidal:
 

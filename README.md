@@ -25,6 +25,8 @@ Com formação em Análise e Desenvolvimento de Sistemas e estudos contínuos em
 
 **Gráfico de Barras: https://bit.ly/4kI2qRS**
 
+**Gráfico BoxPlot: https://shre.ink/AFpg**
+
 ## Projetos:
 Curso Sigmoidal:
 
